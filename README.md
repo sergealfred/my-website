@@ -1,3 +1,3 @@
 # my-website
 
-* edited on github
+* edited locally
