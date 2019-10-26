@@ -1,3 +1,3 @@
 # my-website
 
-* updated on local rep
+* edited on github
